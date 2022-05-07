@@ -10,8 +10,7 @@
 	</head>
 	<body>
 
-		<div id="container">
-			<h1>Bienvenido a CodeIgniter</h1>
-		</div>
+		<h1>Bienvenido a CodeIgniter</h1>
+		
 	</body>
 </html>
